@@ -1,0 +1,30 @@
+ .body {
+     font-family: Verdana, sans-serif;
+     font-size: 0.8em;
+     margin: 0px;
+ }
+ 
+ nav,
+ section,
+article {
+     margin: 5px;
+     padding: 8px;
+ }
+ 
+ header,
+footer {
+     background-color: #328db5;
+     color: white;
+     padding: 5px;
+     padding-left: 15px;
+ }
+ 
+ nav ul {
+     margin: 0;
+     padding: 0;
+ }
+ 
+ nav ul li {
+     display: inline;
+     margin: 5px;
+ }
